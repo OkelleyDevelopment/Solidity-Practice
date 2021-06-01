@@ -12,5 +12,7 @@ certain things within the context of Solidity.
 
 ## Future Goals
 
-- [] Build out more advanced contracts
 - [] Pair some of these things with a web front end
+- [] Build a simple Ethereum chain analyzer
+- [] Move up a layer and begin reading off Polygon
+- [] Build out more advanced contracts

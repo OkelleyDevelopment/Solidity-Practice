@@ -10,6 +10,29 @@ certain things within the context of Solidity.
 
 - Must have an Ethereum Runtime
 
+### Clone
+
+```
+git clone https://github.com/OkelleyDevelopment/Solidity-Practice
+cd Solidity-Practice
+```
+
+### Installing
+
+```
+npm install -g truffle
+npm install -g ganache-cli
+```
+
+### Testing
+
+```
+ganache-cli &
+truffle compile [--all][--network <name>]
+truffle migrate [--reset][-f <number>] [--network <name>] [--compile-all] [--verbose-rpc]
+truffle test
+```
+
 ## Future Goals
 
 - [] Pair some of these things with a web front end
